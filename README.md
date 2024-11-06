@@ -52,10 +52,9 @@
 ### ✨ GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudithFogacho&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudithFogacho&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudithFogacho&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudithFogacho&theme=tokyonight&layout=compact&bg_color=0D1117&title_color=9370DB&text_color=B19CD9&border_color=9F84BD&icon_color=9370DB&hide_border=true)
 
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
